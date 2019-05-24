@@ -1,5 +1,5 @@
 python-levenshtein
-torch
+torch==1.0.1
 visdom
 wget
 librosa
